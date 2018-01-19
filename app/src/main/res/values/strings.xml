@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Spinner And Text</string>
+
+    <string-array name="states">
+        <item>Adamawa</item>
+        <item>Borno</item>
+        <item>Yobe</item>
+    </string-array>
+</resources>
